@@ -1,0 +1,13 @@
+{
+	
+	"boilerplate": {
+		
+		"prefix": "boilerplate",
+		"body": [
+			"#include<stdio.h>",
+			"$1",
+			"{"
+		],
+		"description": "Log output to console"
+	}
+}
